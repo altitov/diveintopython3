@@ -1,0 +1,4 @@
+(MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY) = range(7)
+
+a_set = {1, 3, 6, 10, 15, 21, 28, 36, 45}
+print(a_set)
